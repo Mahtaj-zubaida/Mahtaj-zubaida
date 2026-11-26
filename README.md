@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mahtaj Zubaida! 👋
 
-<!--
-**Mahtaj-zubaida/Mahtaj-zubaida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics Graduate | Python Programmer | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 Bachelor's degree in Mathematics.
+- 🐍 Learning and working with Python programming.
+- 📊 Interested in Data Science and Machine Learning.
+- 🤖 Exploring data analysis, predictive modelling, and AI.
+- 🌱 Continuously improving my technical and analytical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+
+### 🎯 Current Goals
+- Building practical Data Science projects.
+- Improving my Machine Learning skills.
+- Exploring research opportunities in Data Science.
+
+### 🤝 Connect With Me
+https://www.linkedin.com/in/mahtaj-zubaida-27b273446
